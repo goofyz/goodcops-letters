@@ -1,0 +1,99 @@
+[
+  {
+    "region": "HONG KONG ISLAND",
+    "divisions": [
+      "Central Service Center",
+      "Central District",
+      "Peak Sub-Division",
+      "Western Division",
+      "Aberdeen Division",
+      "Stanley Sub-Division",
+      "Wan Chai Division",
+      "Happy Valley Division",
+      "North Point Division",
+      "Shau Kei Wan Reporting Centre",
+      "Chai Wan Division",
+      "Traffic Hong Kong Island"
+    ]
+  },
+  {
+    "region": "KOWLOON EAST",
+    "divisions": [
+      "Wong Tai Sin District",
+      "Tsz Wan Shan Reporting Centre",
+      "Sai Kung Division",
+      "Kwun Tong Division",
+      "Tseung Kwan O Division",
+      "Sau Mau Ping Division",
+      "Ngau Tau Kok Division",
+      "Kai Tak Cruise Terminal Police Reporting Centre",
+      "Traffic Kowloon East"
+    ]
+  },
+  {
+    "region": "KOWLOON WEST",
+    "divisions": [
+      "Tsim Sha Tsui Division",
+      "Yau Ma Tei Division",
+      "Sham Shui Po Division",
+      "Cheung Sha Wan Division",
+      "Shek Kip Mei Reporting Centre",
+      "Mong Kok District",
+      "Kowloon City Division",
+      "Hung Hom Division",
+      "Traffic Kowloon West"
+    ]
+  },
+  {
+    "region": "NEW TERRITORIES SOUTH",
+    "divisions": [
+      "Kwai Chung Division",
+      "Tsing Yi Division",
+      "Tsuen Wan District",
+      "Sha Tin Division",
+      "Tin Sum Division",
+      "Siu Lek Yuen Reporting Centre",
+      "Ma On Shan Division",
+      "Lantau North Division",
+      "Lantau South (Mui Wo) Division",
+      "Penny's Bay Police Post",
+      "Airport District",
+      "Traffic New Territories South"
+    ]
+  },
+  {
+    "region": "NEW TERRITORIES NORTH",
+    "divisions": [
+      "Tai Po Division",
+      "Sheung Shui Division",
+      "Tuen Mun Division",
+      "Castle Peak Division",
+      "Yuen Long Division",
+      "Tin Shui Wai Division",
+      "Shenzhen Bay Port Reporting Centre",
+      "Pat Heung Division",
+      "Lo Wu Control Point",
+      "Sha Tau Kok Division",
+      "Lok Ma Chau Division",
+      "Lok Ma Chau Spur Line Control Point",
+      "Lok Ma Chau Control Point",
+      "Ta Kwu Ling Division",
+      "Man Kam To Control Point",
+      "Traffic New Territories North"
+    ]
+  },
+  {
+    "region": "MARINE",
+    "divisions": [
+      "Marine East Division",
+      "Marine South Division",
+      "Marine West Division",
+      "Marine North Division",
+      "Cheung Chau Division",
+      "Lamma Island Police Post",
+      "Sok Kwu Wan Police Post",
+      "Peng Chau Police Post",
+      "Marine Harbour Division"
+    ]
+  }
+]

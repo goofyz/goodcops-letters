@@ -7,7 +7,8 @@
       "Sergeant 1975 YEUNG Ming-ki"
     ],
     "unit": "Platoon 3 Emergency Unit",
-    "division": "New Territories North Region"
+    "division": "New Territories North Region",
+    "region": "NEW TERRITORIES NORTH REGION"
   },
   {
     "date": "2016-02-14",
@@ -19,7 +20,8 @@
       "PC 18411 PANG Chun-yin"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Western Division"
+    "division": "Western Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-02-13",
@@ -29,7 +31,8 @@
       "PC 859 CHIN Siu-sun"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Tseung Kwan O Division"
+    "division": "Tseung Kwan O Division",
+    "region": "KOWLOON EAST"
   },
   {
     "date": "2016-02-07",
@@ -40,7 +43,8 @@
       "PC 1681 LUK Tat-hung"
     ],
     "unit": "Lantau Airport Railway",
-    "division": "Railway District"
+    "division": "Railway District",
+    "region": "OTHERS"
   },
   {
     "date": "2016-02-06",
@@ -50,7 +54,8 @@
       "PC 8174 TO Yiu-ting"
     ],
     "unit": "Enforcement and Control Division (Road Work Inspection Team 5), Territories South Road Management Office",
-    "division": "Territories South Region"
+    "division": "New Territories South Region",
+    "region": "NEW TERRITORIES SOUTH REGION"
   },
   {
     "date": "2016-02-04",
@@ -62,7 +67,8 @@
       "PC 19288 WONG Hon-hin"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Western Division"
+    "division": "Western Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-02-01",
@@ -73,7 +79,8 @@
       "PC 12125 TANG Kai-him"
     ],
     "unit": "District Investigation Team 7",
-    "division": "Kwun Tong District"
+    "division": "Kwun Tong District",
+    "region": "KOWLOON EAST"
   },
   {
     "date": "2016-02-01",
@@ -83,7 +90,8 @@
       "PC 53928 Yu Wing-ho"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Wanchai Division"
+    "division": "Wan Chai Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-01-27",
@@ -94,7 +102,8 @@
       "James"
     ],
     "unit": "District Investigation Team 6",
-    "division": "Shatin District"
+    "division": "Sha Tin Division",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2016-01-26",
@@ -105,7 +114,8 @@
       "WPC 14926 CHAN Pui-sin"
     ],
     "unit": "Shenzhen Bay Port",
-    "division": "Tin Shui Wai Division"
+    "division": "Tin Shui Wai Division",
+    "region": "NEW TERRITORIES NORTH"
   },
   {
     "date": "2016-01-25",
@@ -115,7 +125,8 @@
       "PC 49977 HO Wai-yip"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Cheung Chau Division"
+    "division": "Cheung Chau Division",
+    "region": "MARINE"
   },
   {
     "date": "2016-01-23",
@@ -125,7 +136,8 @@
       "PC 15188 NG Ka-fai"
     ],
     "unit": "Patrol Sub-unt 2",
-    "division": "Aberdeen Division"
+    "division": "Aberdeen Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-01-13",
@@ -137,7 +149,8 @@
       "PC 16206 NG Sui-leung"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Western Division"
+    "division": "Western Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-01-13",
@@ -147,7 +160,8 @@
       "PC 1733 PANG Wai-wa"
     ],
     "unit": "Regional Missing Person Unit",
-    "division": "Kowloon East"
+    "division": "Kowloon East",
+    "region": "KOWLOON EAST"
   },
   {
     "date": "2016-01-05",
@@ -157,7 +171,8 @@
       "PC 12610 WONG Ho-tak"
     ],
     "unit": "Platoon 3, Emergency Unit",
-    "division": "Hong Kong Island"
+    "division": "Hong Kong Island",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-01-04",
@@ -167,7 +182,8 @@
       "PC 16674 YEUNG Chung-hin"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Wan Chai Division"
+    "division": "Wan Chai Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2016-01-02",
@@ -178,7 +194,8 @@
       "PC 34221 Tsai Yu-ping"
     ],
     "unit": "Lantau Airport Railway",
-    "division": "Railway District"
+    "division": "Railway District",
+    "region": "OTHERS"
   },
   {
     "date": "2015-12-24",
@@ -188,7 +205,8 @@
       "PC1582 LAU Yuk-ming"
     ],
     "unit": "District Investigation Team 3",
-    "division": "Kowloon City District"
+    "division": "Kowloon City District",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-12-22",
@@ -198,7 +216,8 @@
       "PC 10181 LAU Hei-yee"
     ],
     "unit": "Accident Investigation Team 6",
-    "division": "Traffic New Territories South Region"
+    "division": "Traffic New Territories South Region",
+    "region": "TRAFFIC NEW TERRITORIES SOUTH REGION"
   },
   {
     "date": "2015-12-21",
@@ -208,7 +227,8 @@
       "WPC 4168 WONG Pui-pui"
     ],
     "unit": "District Intelligence Section",
-    "division": "Wan Chai District"
+    "division": "Wan Chai District",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-12-21",
@@ -218,7 +238,8 @@
       "PC 473 LI Wai-nok"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Castle Peak Division"
+    "division": "Castle Peak Division",
+    "region": "NEW TERRITORIES NORTH"
   },
   {
     "date": "2015-12-16",
@@ -230,7 +251,8 @@
       "PC 18332 YIP Kwan-ki"
     ],
     "unit": "Patrol Sub-units of Mong Kok District and PC 16773 KWONG Pui-lam of District Traffic Team",
-    "division": "Mong Kok District"
+    "division": "Mong Kok District",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-12-10",
@@ -240,7 +262,8 @@
       "PC 33222 CHEUNG Yau-hong"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-12-08",
@@ -252,7 +275,8 @@
       "PC 46954 LEUNG Chung-fong"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Lantau South Division"
+    "division": "Lantau South (Mui Wo) Division",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-12-05",
@@ -262,7 +286,8 @@
       "PCA 6263 TSENG Kin-yung"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Yaumatei Division"
+    "division": "Yau Ma Tei Division",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-12-03",
@@ -274,7 +299,8 @@
       "PC 12509 CHIU Sik-sun"
     ],
     "unit": "District Investigation Team 3",
-    "division": "Wan Chai District"
+    "division": "Wan Chai District",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-11-25",
@@ -287,7 +313,8 @@
       "PC 34287 LEUNG Kwok-wai"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Western Division"
+    "division": "Western Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-11-22",
@@ -297,7 +324,8 @@
       "PC 58199 CHENG Kam-cheung"
     ],
     "unit": "District Investigation Team 2",
-    "division": "Yuen Long District"
+    "division": "Yuen Long District",
+    "region": "NEW TERRITORIES NORTH"
   },
   {
     "date": "2015-11-21",
@@ -307,7 +335,8 @@
       "PC 48912"
     ],
     "unit": "District Traffic Team",
-    "division": "Central District"
+    "division": "Central District",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-11-18",
@@ -324,7 +353,8 @@
       "PC 7199 TUNG Wun-lan"
     ],
     "unit": "District Investigation Team 3",
-    "division": "Wan Chai District"
+    "division": "Wan Chai District",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-11-16",
@@ -340,7 +370,8 @@
       "PC 10960 YEUNG Kam-lin"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Wan Chai Division"
+    "division": "Wan Chai Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-11-12",
@@ -352,7 +383,8 @@
       "PC 11611 HUNG Tung-man"
     ],
     "unit": "Counter Terrorism Response Unit",
-    "division": "Counter Terrorism and Internal Security Division"
+    "division": "Counter Terrorism and Internal Security Division",
+    "region": "OTHERS"
   },
   {
     "date": "2015-11-06",
@@ -363,7 +395,8 @@
       "52847 WONG Nam-tat"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-11-03",
@@ -373,7 +406,8 @@
       "PC 54345 YUEN Ka-chun"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Happy Valley Division"
+    "division": "Happy Valley Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-10-30",
@@ -383,7 +417,8 @@
       "PC 33799 CHENG Kwun-wa"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-10-23",
@@ -393,7 +428,8 @@
       "Auxiliary Sergeant 6817 LAU Yip-hung"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Pat Heung Division"
+    "division": "Pat Heung Division",
+    "region": "NEW TERRITORIES NORTH"
   },
   {
     "date": "2015-10-20",
@@ -405,7 +441,8 @@
       "PC 11062 Man Ka-hing"
     ],
     "unit": "Enforcement and Control Division",
-    "division": "Kowloon West Region"
+    "division": "Kowloon West Region",
+    "region": "KOWLOON WEST REGION"
   },
   {
     "date": "2015-10-15",
@@ -415,7 +452,8 @@
       "WPC 10921 CHAN Ho-hing"
     ],
     "unit": "District Investigation Team 3",
-    "division": "Yau Tsim District"
+    "division": "Yau Tsim District",
+    "region": "OTHERS"
   },
   {
     "date": "2015-10-14",
@@ -427,7 +465,8 @@
       "PC 47537 LEUNG Chi-ming"
     ],
     "unit": "Patrol Sub-unit 2, Wan Chai Division and PC 53089 SIT Man and PC 58904 TAM Kwai-yung of Patrol Sub-unit 1",
-    "division": "Happy Valley Division"
+    "division": "Happy Valley Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-10-05",
@@ -440,7 +479,8 @@
       "WPC 55653 YAU Yuk-chun"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Peak Sub-Division"
+    "division": "Peak Sub-Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-09-27",
@@ -451,7 +491,8 @@
       "PC 15883 WONG Ka-ho"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Tsing Yi Division"
+    "division": "Tsing Yi Division",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-09-15",
@@ -463,7 +504,8 @@
       "PC 11126 LEUNG Ka-shing"
     ],
     "unit": "Platoon 2, Emergency Unit",
-    "division": "Hong Kong Island"
+    "division": "Hong Kong Island",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-08-28",
@@ -473,7 +515,8 @@
       "PC 34578 LAI Sin-hing"
     ],
     "unit": "Enforcement and Control Division",
-    "division": "Kowloon East Region"
+    "division": "Kowloon East Region",
+    "region": "KOWLOON EAST REGION"
   },
   {
     "date": "2015-08-26",
@@ -483,7 +526,8 @@
       "Auxiliary Station Sergeant CHENG Suk-yin"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "North Point Division"
+    "division": "North Point Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-08-24",
@@ -493,7 +537,8 @@
       "PC 58329 WONG Io-cheong"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Kwai Chung Division"
+    "division": "Kwai Chung Division",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-08-24",
@@ -504,7 +549,8 @@
       "PC 9945 LAW Chi-wai"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Happy Valley Division"
+    "division": "Happy Valley Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-08-07",
@@ -515,7 +561,8 @@
       "PC 17004 TANG Hoi-san"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Wong Tai Sin District"
+    "division": "Wong Tai Sin District",
+    "region": "KOWLOON EAST"
   },
   {
     "date": "2015-07-08",
@@ -525,7 +572,8 @@
       "PC 34879"
     ],
     "unit": "Investigation and Support, Accident Investigation Team",
-    "division": "New Territories South Region"
+    "division": "New Territories South Region",
+    "region": "NEW TERRITORIES SOUTH REGION"
   },
   {
     "date": "2015-07-08",
@@ -535,7 +583,8 @@
       "PC 33222 CHEUNG Yau-hong"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-06-30",
@@ -546,7 +595,8 @@
       "PC 17681 TAI Tsz-ho"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "North Point Division"
+    "division": "North Point Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-06-27",
@@ -556,7 +606,8 @@
       "PC 14125 WONG Hon-chiu"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Hung Hom Division"
+    "division": "Hung Hom Division",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-06-24",
@@ -566,7 +617,8 @@
       "PC 9060 CHEUNG Lu-yi"
     ],
     "unit": "Traffic Accident Investigation Team 1",
-    "division": "New Territories North Region"
+    "division": "New Territories North Region",
+    "region": "NEW TERRITORIES NORTH REGION"
   },
   {
     "date": "2015-06-02",
@@ -576,7 +628,8 @@
       "PC 8739 YEUNG Chak-ming"
     ],
     "unit": "Traffic Patrol Sub-unit 1",
-    "division": "New Territories North Region"
+    "division": "New Territories North Region",
+    "region": "NEW TERRITORIES NORTH REGION"
   },
   {
     "date": "2015-05-30",
@@ -586,7 +639,8 @@
       "PC 17043 SHI Yu-shing"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Central District"
+    "division": "Central District",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-05-28",
@@ -598,7 +652,8 @@
       "PC 16502 HO Yim-ching"
     ],
     "unit": "Patrol Sub-unit 1",
-    "division": "Hung Hom Division"
+    "division": "Hung Hom Division",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-05-26",
@@ -608,7 +663,8 @@
       "WPC 5550 CHAN Ching-sze"
     ],
     "unit": "Team 1, Traffic Investigation Group",
-    "division": "New Territories North Region"
+    "division": "New Territories North Region",
+    "region": "NEW TERRITORIES NORTH REGION"
   },
   {
     "date": "2015-05-22",
@@ -620,7 +676,8 @@
       "PC 16998 LEUNG Wing-hang"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Aberdeen Division"
+    "division": "Aberdeen Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-05-09",
@@ -630,7 +687,8 @@
       "WPC 8334 HUI Ying"
     ],
     "unit": "Police Service Centre",
-    "division": "Central District"
+    "division": "Central District",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-05-09",
@@ -641,7 +699,8 @@
       "PC 18332 YIP Kwan-ki"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Mong Kok District"
+    "division": "Mong Kok District",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-04-28",
@@ -651,7 +710,8 @@
       "WPC 12348 POON Ka-ying"
     ],
     "unit": "Patrol Sub-unit 3",
-    "division": "Wan Chai Division"
+    "division": "Wan Chai Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-04-07",
@@ -661,7 +721,8 @@
       "PCA 2817 CHAN Chi-fai"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Tsuen Wan District"
+    "division": "Tsuen Wan District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-03-15",
@@ -673,7 +734,8 @@
       "PC 17107 FAN Kam-ho"
     ],
     "unit": "Patrol Sub-unit 2 Tsuen Wan District and PC 758 LAU Chi-chung of District Investigation Team 1",
-    "division": "Tsuen Wan District"
+    "division": "Tsuen Wan District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-03-10",
@@ -684,7 +746,8 @@
       "WPC 18342 CHAN Sim-ling"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Wan Chai Division"
+    "division": "Wan Chai Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-03-08",
@@ -696,7 +759,8 @@
       "PC 9217 MAN Kin-ho"
     ],
     "unit": "Task Force Sub-unit",
-    "division": "Tseung Kwan O Division"
+    "division": "Tseung Kwan O Division",
+    "region": "KOWLOON EAST"
   },
   {
     "date": "2015-03-06",
@@ -709,7 +773,8 @@
       "Sophia"
     ],
     "unit": null,
-    "division": "Tai Po District"
+    "division": "Tai Po District",
+    "region": "NEW TERRITORIES NORTH"
   },
   {
     "date": "2015-03-02",
@@ -719,7 +784,8 @@
       "Senior Inspector WONG Sze-pan"
     ],
     "unit": "District Investigation Team 5",
-    "division": "Yuen Long District"
+    "division": "Yuen Long District",
+    "region": "NEW TERRITORIES NORTH"
   },
   {
     "date": "2015-02-26",
@@ -729,7 +795,8 @@
       "WPC 57058 SHUM Wing-chi"
     ],
     "unit": "Team 2, Traffic Investigation Group",
-    "division": "New Territories South Region"
+    "division": "New Territories South Region",
+    "region": "NEW TERRITORIES SOUTH REGION"
   },
   {
     "date": "2015-02-23",
@@ -739,7 +806,8 @@
       "PC 7371 CHAN Tsun-yin"
     ],
     "unit": "Lantau Airport Line",
-    "division": "Railway District"
+    "division": "Railway District",
+    "region": "OTHERS"
   },
   {
     "date": "2015-02-22",
@@ -749,7 +817,8 @@
       "PC 49759 LEUNG Wai-man"
     ],
     "unit": "Patrol Sub-unit 1, Enforcement and Control Team",
-    "division": "Traffic Hong Kong Island Region"
+    "division": "Traffic Hong Kong Island Region",
+    "region": "TRAFFIC HONG KONG ISLAND REGION"
   },
   {
     "date": "2015-02-20",
@@ -760,7 +829,8 @@
       "PC 34286 YAM Chor-tak"
     ],
     "unit": "Patrol Sub-unit 2",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-02-19",
@@ -773,7 +843,8 @@
       "WPC 16791 TSOI Kai-ting"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Happy Valley Division"
+    "division": "Happy Valley Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-02-16",
@@ -783,7 +854,8 @@
       "PC 50766 LAU Woon-shun"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-02-14",
@@ -793,7 +865,8 @@
       "PC 7556 LAU King-hin"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Yau Ma Tei Division"
+    "division": "Yau Ma Tei Division",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-02-10",
@@ -803,7 +876,8 @@
       "PC 33222 CHEUNG Yau-hong"
     ],
     "unit": "Patrol Sub-unit 4",
-    "division": "Airport District"
+    "division": "Airport District",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-02-09",
@@ -814,7 +888,8 @@
       "SGT 34747 WONG Yan-sang & PC 51948 CHOI Sau-tak"
     ],
     "unit": "DO Team 2",
-    "division": "Cheung Sha Wan Division"
+    "division": "Cheung Sha Wan Division",
+    "region": "KOWLOON WEST"
   },
   {
     "date": "2015-02-03",
@@ -824,7 +899,8 @@
       "Woman Police Constable 56597 YUE King-pui"
     ],
     "unit": "Traffic Investigation and Support Section",
-    "division": "Hong Kong Island"
+    "division": "Hong Kong Island",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-01-30",
@@ -834,7 +910,8 @@
       "Police Constable 5144 LAI Chun-kit"
     ],
     "unit": "Patrol Sub-unit 1",
-    "division": "Kwai Chung Division"
+    "division": "Kwai Chung Division",
+    "region": "NEW TERRITORIES SOUTH"
   },
   {
     "date": "2015-01-28",
@@ -845,7 +922,8 @@
       "Police Constable 15126 TANG Man-kit"
     ],
     "unit": "Patrol Sub-unit 1",
-    "division": "Wan Chai Division"
+    "division": "Wan Chai Division",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-01-13",
@@ -857,7 +935,8 @@
       "Woman Police Constable 8320 CHAN Ka-yee"
     ],
     "unit": "Platoon 2 of Emergency Unit",
-    "division": "Hong Kong Island"
+    "division": "Hong Kong Island",
+    "region": "HONG KONG ISLAND"
   },
   {
     "date": "2015-01-05",
@@ -867,6 +946,7 @@
       "Constable 2033 LIU Seung-mo"
     ],
     "unit": "District Investigation Team 5",
-    "division": "Shatin District"
+    "division": "Shatin District",
+    "region": "OTHERS"
   }
 ]
