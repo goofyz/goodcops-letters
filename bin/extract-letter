@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var parser = require('../lib/appreciation_parser')
+
+parser("./data/appreciation_en.xml", (e, letters) => {
+  console.log(JSON.stringify(letters, null, 2))
+})
