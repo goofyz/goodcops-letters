@@ -4,5 +4,5 @@ var parser = require('../lib/appreciation_parser')
 var fs = require('fs')
 
 parser("./data/appreciation_en.xml", (e, letters) => {
-  fs.writeFileSync('./data/appreciation_en.json', JSON.stringify(letters, null, 2))
+  fs.writeFileSync('./public/appreciation_en.json', JSON.stringify(letters, null, 2))
 })
