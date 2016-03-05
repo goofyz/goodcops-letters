@@ -1,0 +1,25 @@
+SGT 58101 YUEN Chun-yue, SPC 49741 LAI Chiu-tat and PC 19288 WONG Hon-hin of Patrol Sub-unit 3, Western Division
+SGT 49413 CHAN Wai-yuen and PC 12125 TANG Kai-him of District Investigation Team 7, Kwun Tong District
+PC 13943 CHIM Hok-in, James of District Investigation Team 6, Shatin District
+PC 9735 CHIN Kwok-man and WPC 14926 CHAN Pui-sin of Shenzhen Bay Port, Tin Shui Wai Division
+PC 49977 HO Wai-yip of Patrol Sub-unit 3, Cheung Chau Division
+PCA 6263 TSENG Kin-yung of Patrol Sub-unit 2, Yaumatei Division
+Police Constable 54753 KU Tin, Police Constable 7390 TSE Yuk-ming and Woman Police Constable 8320 CHAN Ka-yee of Platoon 2 of Emergency Unit of Hong Kong Island.
+
+Note : the officer praised in this letter is
+Note : the officers praised in this letter are
+Note: the officer praised in this letter is
+
+{
+  "title": "",
+  "text": "",
+  "date": "",
+  "offices": [
+    {
+      "id": "",
+      "name": ""
+    }
+  ],
+  "unit": "",
+  "division": ""
+}

@@ -1,0 +1,18 @@
+{
+  "name": "police-appreciation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Chong <francis@ignition.hk> (https://github.com/siuying)",
+  "license": "ISC",
+  "dependencies": {
+    "feedparser": "^1.1.4",
+    "firebase": "^2.4.1",
+    "lodash": "^4.6.1",
+    "request": "^2.69.0",
+    "rxjs-es": "^5.0.0-beta.2"
+  }
+}
