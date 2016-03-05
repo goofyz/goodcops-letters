@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
 var parser = require('../lib/appreciation_parser')
+var fs = require('fs')
 
 parser("./data/appreciation_en.xml", (e, letters) => {
-  console.log(JSON.stringify(letters, null, 2))
+  fs.writeFileSync('./data/appreciation_en.json', JSON.stringify(letters, null, 2))
 })
