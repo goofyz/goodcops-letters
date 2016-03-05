@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
-
+body {
+  background: white;
+}
+#content {
+  width: 960px;
+  height: 960px;
+}
 .node {
   cursor: pointer;
 }
@@ -27,8 +33,15 @@
   pointer-events: none;
 }
 
+h1 {
+  font: 22px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500
+}
+
 </style>
 <body>
-<script src="bundle.js"></script>
+  <h1>Appreciation Letters </h1>
+  <div id="content"></div>
+  <script src="bundle.js"></script>
 </body>
 </html>

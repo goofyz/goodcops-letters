@@ -2,25 +2,60 @@ var letters = require('./public/appreciation_en.json')
 var _ = require('lodash')
 var d3 = require('d3')
 
-function lettersByDivision(letters) {
-  return letters.reduce((map, letter) => {
-    if (!map[letter.division]) {
-      map[letter.division] = {
-        name: letter.division,
-        count: 0,
+function officerNames(letter) {
+  return letter.officers.join(", ")
+}
+
+function createRoot(letters) {
+  var results = {
+    name: "police",
+    children: []
+  }
+
+  var topLevelLetters = letters.filter((l) => l.region == l.division)
+  var secondLevelLetters = letters.filter((l) => l.region != l.division)
+  topLevelLetters.forEach((letter) => {
+    var name = letter.division
+    var child = _.find(results.children, (c) => c.name == name)
+    if (!child) {
+      var child = {
+        name: name,
         children: []
       }
+      results.children.push(child)
     }
-    var child = {
-      name: letter.title,
-      size: 1,
-      letter: letter
+    child.children.push({
+      name: officerNames(letter),
+      size: 1
+    })
+  })
+  secondLevelLetters.forEach((letter) => {
+    var region = letter.region
+    var name = letter.division
+    var regionChild = _.find(results.children, (c) => c.name == region)
+    if (!regionChild) {
+      var regionChild = {
+        name: region,
+        children: []
+      }
+      results.children.push(regionChild)
     }
-    map[letter.division].children.push(child)
-    map[letter.division].count = map[letter.division].children.length
-    return map
-  }, {})
+    var child = _.find(regionChild.children, (c) => c.name == name)
+    if (!child) {
+      var child = {
+        name: name,
+        children: []
+      }
+      regionChild.children.push(child)
+    }
+    child.children.push({
+      name: officerNames(letter),
+      size: 1
+    })
+  })
+  return results
 }
+
 
 // D3 Drawing
 
@@ -42,21 +77,14 @@ var pack = d3.layout.pack()
     .size([diameter - margin, diameter - margin])
     .value(function(d) { return d.size; })
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#content")
+    .append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-
-var lettersByDiv = lettersByDivision(letters)
-
-var root = {
-  name: "police",
-  children: Object.keys(lettersByDiv).map((k) => lettersByDiv[k])
-}
-
-console.log(root)
+var root = createRoot(letters)
 
 var focus = root
 var nodes = pack.nodes(root)
