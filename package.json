@@ -11,6 +11,7 @@
   "author": "Francis Chong <francis@ignition.hk> (https://github.com/siuying)",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.20.0",
     "d3": "^3.5.16",
     "feedparser": "^1.1.4",
     "firebase": "^2.4.1",
