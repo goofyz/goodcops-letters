@@ -6,6 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server webpack.config.js --content-base public --watch",
     "build": "webpack webpack.config.js",
+    "deploy": "git subtree push --prefix public origin gh-pages",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Francis Chong <francis@ignition.hk> (https://github.com/siuying)",
